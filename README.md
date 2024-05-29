@@ -8,7 +8,6 @@
 * [Project Description](#project-description)
 * [Methodologies Used](#methodologies-used)
 * [Technologies Used](#technologies-used)
-* [Recommendations](#recommendations)
 * [Contributors](#Contributors)
 * [License](#License)
 
@@ -41,14 +40,6 @@ The goal is to model the demand for shared bikes with the available independent 
 - Numpy
 - statsmodels
 - sklearn
-
-## Recommendations
-
-1) 
-2) 
-3) 
-4) 
-5) 
 
 ## Contributors
 * Subhomoy Ganguli
