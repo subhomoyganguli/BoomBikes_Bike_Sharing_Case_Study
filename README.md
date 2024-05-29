@@ -11,6 +11,7 @@
 * [Technologies Used](#technologies-used)
 * [Recommendations](#recommendations)
 * [Contributors](#Contributors)
+* [License](#License)
 
 ## Project Description
 A US bike-sharing provider **BoomBikes** has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
@@ -50,10 +51,10 @@ The goal is to model the demand for shared bikes with the available independent 
 4) 
 5) 
 
-# Contributors
+## Contributors
 * Subhomoy Ganguli
 
-# License
+## License
 Use of this dataset in publications must be cited to the following publication:
 
 [1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
