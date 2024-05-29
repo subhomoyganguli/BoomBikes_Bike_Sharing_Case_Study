@@ -2,6 +2,7 @@
 
 **BoomBikes** provides bike-sharing service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
+![the-transport-enthusiast-dc-teRu8XvSvuk-unsplash](https://github.com/subhomoyganguli/BoomBikes_Bike_Sharing_Case_Study/assets/67957101/6b58ff8a-7485-493b-ba5d-c23de9c5b53a)
 
 
 ## Table of Contents
